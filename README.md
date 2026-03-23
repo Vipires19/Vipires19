@@ -73,28 +73,6 @@ Autonomous AI agent for lead qualification and property recommendation
 
 ---
 
-### 🚔 Heimdall — AI for Law Enforcement
-Operational AI agent for criminal data analysis  
-
-→ Tactical language interface  
-→ Spreadsheet analysis with Python execution  
-→ Insight generation for field operations  
-
-**Stack:** LangGraph, Python REPL, MongoDB  
-
----
-
-### 💪 PersonalAI — Fitness AI Platform
-AI-powered system for personalized training plans  
-
-→ Adaptive workouts  
-→ Feedback-based optimization  
-→ Knowledge base integration (vector search)  
-
-**Stack:** Streamlit, LangChain, Vector Store  
-
----
-
 ## 📈 What Makes Me Different
 
 - I build **production-ready AI systems**, not just demos  
