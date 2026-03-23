@@ -49,6 +49,9 @@ My focus is on:
 </p>
 
 ---
+## 🧪 Currently Building
+ - Improvements in Leozera's UX
+---
 
 ## 🔥 Featured Projects
 
