@@ -1,52 +1,121 @@
-# 💼 Vinícius de Campos Pires
+<h1 align="center">💰 Vinícius de Campos Pires</h1>
 
-👮‍♂️ Policial Militar | 🤖 Desenvolvedor de Inteligência Artificial  
-Especialista em agentes autônomos com LangGraph, MongoDB e OpenAI
+<p align="center">
+👮‍♂️ Military Police Officer → 🤖 AI Engineer <br>
+Building real-world AI systems that automate operations and scale businesses
+</p>
 
----
-
-## 🚀 Sobre mim
-
-Sou Policial Militar de carreira com uma paixão crescente por tecnologia. Nos últimos anos, venho me especializando em soluções de **IA aplicada**, criando agentes inteligentes para áreas como:
-
-- **Segurança Pública**: análise criminal com planilhas, automação de consultas operacionais.
-- **Fitness e Educação Física**: plataforma SaaS para personal trainers com IA adaptativa.
-- **Mercado Imobiliário**: gestão e classificação de leads com agentes autônomos.
-- **Delivery e Atendimento**: agentes de pedidos com fluxo inteligente via WhatsApp.
-
-Trabalho com ferramentas modernas como **LangChain**, **LangGraph**, **MongoDB Atlas**, **Streamlit**, **FastAPI**, **vector stores**, e APIs de LLMs com preferência pela **OpenAI** para construir soluções robustas, escaláveis e seguras.
+<p align="center">
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-de-campos-pires-544a88241/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinícius%20Pires-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🚀 What I Do
 
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) 
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square) 
-![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square)
+I design and build **AI-powered systems that solve real problems** — not just prototypes.
 
----
+My focus is on:
 
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **Heimdall** | Agente policial com linguagem tática da PM para análise de planilhas e estatísticas operacionais. | LangGraph, Python REPL, MongoDB |
-| **PersonalAI** | Plataforma com IA para personal trainers gerarem treinos e análises personalizadas. | Streamlit, Vector Store, LangChain |
-| **Átrio Imob** | Agente de atendimento e gestão de leads imobiliários via WhatsApp. | MongoDB, LangGraph, FastAPI |
+- 🤖 Autonomous AI Agents (LangGraph / LangChain)
+- 💬 WhatsApp-based automation systems
+- 📊 Data-driven decision systems
+- ⚙️ Scalable backend architectures for AI products
 
 ---
 
-## 📫 Contato
+## 🧠 Core Expertise
 
-- [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-de-campos-pires-544a88241/)
-- E-mail: **viinycampos19@hotmail.com**
+- **AI Engineering** → LLM systems, agents, prompt orchestration  
+- **Backend Development** → APIs, async workers, integrations  
+- **AI for Business** → automation, lead qualification, financial insights  
+- **System Design** → building end-to-end AI SaaS platforms  
 
 ---
 
-## ⚡ Curiosidade
+## 🧰 Tech Stack
 
-Acredito que a **IA pode transformar realidades operacionais**, otimizando tempo, reduzindo erros e levando tecnologia onde ela ainda não chegou.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Leozera — AI Financial SaaS
+AI-powered financial assistant integrated with WhatsApp  
+→ Natural language expense tracking  
+→ Smart insights & financial analytics  
+→ Subscription system with billing automation  
+
+**Stack:** Django, MongoDB, OpenAI, Celery, WhatsApp API  
+
+---
+
+### 🏡 Atrio — AI Real Estate Agent
+Autonomous AI agent for lead qualification and property recommendation  
+
+→ Lead scoring (hot/warm/cold)  
+→ WhatsApp automation  
+→ Payment generation (Asaas integration)  
+
+**Stack:** LangGraph, FastAPI, MongoDB  
+
+---
+
+### 🚔 Heimdall — AI for Law Enforcement
+Operational AI agent for criminal data analysis  
+
+→ Tactical language interface  
+→ Spreadsheet analysis with Python execution  
+→ Insight generation for field operations  
+
+**Stack:** LangGraph, Python REPL, MongoDB  
+
+---
+
+### 💪 PersonalAI — Fitness AI Platform
+AI-powered system for personalized training plans  
+
+→ Adaptive workouts  
+→ Feedback-based optimization  
+→ Knowledge base integration (vector search)  
+
+**Stack:** Streamlit, LangChain, Vector Store  
+
+---
+
+## 📈 What Makes Me Different
+
+- I build **production-ready AI systems**, not just demos  
+- I focus on **real-world applications**, not theoretical models  
+- I combine **AI + backend + business logic**  
+- I create systems that **automate workflows and generate value**  
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/vin%C3%ADcius-de-campos-pires-544a88241/
+
+- 📧 Email:  
+  **viinycampos19@hotmail.com**
+
+---
+
+## ⚡ Philosophy
+
+> "AI is not about replacing people — it's about amplifying human capability and transforming operations."
+
+---
